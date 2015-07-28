@@ -1,19 +1,7 @@
-# tao-chef
+# Using Chef and Vagrant to create build and test environments.
 
 ### Abstract
-
-
-
-Motivation: Efficiency saves money and versioning allows infrastructure to be extremely flexible.
-
-Problem statement: Expensive manual repetitive environment setup and unreproducible builds. 
-
-Approach: How did you go about solving or making progress on the problem? Did you use simulation, analytic models, prototype construction, or analysis of field data for an actual product?
-
-Results: What's the answer?
-
-Conclusions: What are the implications of your answer? Is it going to change the world (unlikely), be a significant "win", be a nice hack, or simply serve as a road sign indicating that this path is a waste of time (all of the previous results are useful)? 
-
+Go beyond automated tests into automated environments. Learn how to automate the creation of build and test environments through the story of how it was done at Tripwire. When build and test environments are defined as code, they can be versioned along with the software that is tested and built.  
 
 ### Biography
 Ryan Larson is a Software Engineer at Tripwire with a passion for automation and efficiency.
